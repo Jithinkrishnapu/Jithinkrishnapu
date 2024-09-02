@@ -29,3 +29,9 @@ He/Him
 When I'm not coding, you can find me exploring new music, experimenting with new tech gadgets, or hiking in the beautiful hills of Kerala!
 
 Feel free to connect with me or check out my projects to see how I'm trying to make a difference, one line of code at a time!
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) 
+
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
